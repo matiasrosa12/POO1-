@@ -1,6 +1,6 @@
 # TP – Desarrollo de Sistemas Orientada a Objetos
 
-**Alumno:** [Tu nombre y apellido]
+**Alumno:** Rosa Matias
 
 Resolución de la guía de ejercicios (7 ejercicios) en Java. Cada ejercicio está en su propio paquete dentro de `src/` y tiene su clase `Main` para probarlo.
 
